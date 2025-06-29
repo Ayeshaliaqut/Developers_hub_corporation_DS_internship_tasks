@@ -1,6 +1,6 @@
 # Developers_hub_corporation_DS_internship_tasks
 Data Science &amp; Analytics internship tasks
-# 🧠 Data Science Projects: Classification & Regression Tasks
+#  Data Science Projects: Classification & Regression Tasks
 
 This repository contains a series of hands-on machine learning tasks designed to practice core data science skills such as data exploration, cleaning, modeling, evaluation, and visualization. Each task addresses a real-world problem using open datasets and standard Python ML libraries.
 
